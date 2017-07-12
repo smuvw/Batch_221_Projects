@@ -8,7 +8,7 @@ public class test1 {
 	public static void main(String[] args) {
 		ChromeDriver driver= new ChromeDriver();
 		driver.get("https://jqueryui.com/");
-		
+		//welcome to Java 
 		//driver.manage().window().maximize();
 		
 		driver.findElementByXPath(".//*[@id='sidebar']/aside[1]/ul/li[4]/a").click();
