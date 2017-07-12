@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92" started-at="2017-07-11T00:20:49Z" finished-at="2017-07-11T00:20:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92" started-at="2017-07-11T00:20:49Z" finished-at="2017-07-11T00:20:49Z">
+      <class name="TestNGSamples.test4">
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:TestNGSamples.test4@2669b199]" name="Login" duration-ms="17" started-at="2017-07-10T19:20:49Z" data-provider="getData" finished-at="2017-07-10T19:20:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sri1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sri2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:TestNGSamples.test4@2669b199]" name="Login" duration-ms="10" started-at="2017-07-10T19:20:49Z" data-provider="getData" finished-at="2017-07-10T19:20:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sri3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sri4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:TestNGSamples.test4@2669b199]" name="Login" duration-ms="2" started-at="2017-07-10T19:20:49Z" data-provider="getData" finished-at="2017-07-10T19:20:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sri5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sri6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- TestNGSamples.test4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
